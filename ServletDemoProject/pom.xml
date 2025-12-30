@@ -23,7 +23,7 @@
       <scope>test</scope>
     </dependency>
     
-        <!-- ✅ Servlet API (for HttpServlet classes) -->
+        <!--  Servlet API (for HttpServlet classes) -->
         <dependency>
             <groupId>jakarta.servlet</groupId>
             <artifactId>jakarta.servlet-api</artifactId>
@@ -43,7 +43,7 @@
 			<version>8.4.0</version>
 		</dependency>
 		
-		<!-- ✅ Jakarta Persistence API (JPA) -->
+		<!--  Jakarta Persistence API (JPA) -->
 		<dependency>
 		    <groupId>jakarta.persistence</groupId>
 		    <artifactId>jakarta.persistence-api</artifactId>
@@ -55,3 +55,4 @@
     <finalName>ServletDemoProject</finalName>
   </build>
 </project>
+
